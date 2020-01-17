@@ -1,0 +1,316 @@
+{
+    "https://groceries.morrisons.com/browse": [
+        {
+            "id": "178974",
+            "label": "THE BEST",
+            "link": "https://groceries.morrisons.com/browse/178974",
+            "Children": [
+                {
+                    "id": "178969",
+                    "label": "FRESH",
+                    "link": "https://groceries.morrisons.com/browse/178974/178969",
+                    "Children": [
+                        {
+                            "id": "178975",
+                            "label": "CHEESE",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178975",
+                            "Children": []
+                        },
+                        {
+                            "id": "178976",
+                            "label": "COOKED MEAT & ANTIPASTI",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178976",
+                            "Children": []
+                        },
+                        {
+                            "id": "178977",
+                            "label": "DAIRY & EGGS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178977",
+                            "Children": []
+                        },
+                        {
+                            "id": "178978",
+                            "label": "DESSERTS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178978",
+                            "Children": []
+                        },
+                        {
+                            "id": "178979",
+                            "label": "DRINKS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178979",
+                            "Children": []
+                        },
+                        {
+                            "id": "178980",
+                            "label": "FISH & SEAFOOD",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178980",
+                            "Children": []
+                        },
+                        {
+                            "id": "178981",
+                            "label": "FRUIT & VEGETABLES",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178981",
+                            "Children": []
+                        },
+                        {
+                            "id": "178982",
+                            "label": "MEAT & POULTRY",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178982",
+                            "Children": []
+                        },
+                        {
+                            "id": "178983",
+                            "label": "NUTS & SNACKS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178983",
+                            "Children": []
+                        },
+                        {
+                            "id": "178984",
+                            "label": "PIES & QUICHES ",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178984",
+                            "Children": []
+                        },
+                        {
+                            "id": "178985",
+                            "label": "PIZZA, PASTA & GARLIC BREAD",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178985",
+                            "Children": []
+                        },
+                        {
+                            "id": "178986",
+                            "label": "READY MEALS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178986",
+                            "Children": []
+                        },
+                        {
+                            "id": "178987",
+                            "label": "SAVOURY SNACKS & CHILLED",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178987",
+                            "Children": []
+                        },
+                        {
+                            "id": "178988",
+                            "label": "SOUPS & SAUCES",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178988",
+                            "Children": []
+                        },
+                        {
+                            "id": "178989",
+                            "label": "VEGETARIAN",
+                            "link": "https://groceries.morrisons.com/browse/178974/178969/178989",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "178970",
+                    "label": "FOOD CUPBOARD",
+                    "link": "https://groceries.morrisons.com/browse/178974/178970",
+                    "Children": [
+                        {
+                            "id": "178990",
+                            "label": "ANTIPASTI",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178990",
+                            "Children": []
+                        },
+                        {
+                            "id": "178991",
+                            "label": "BISCUITS & CRACKERS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178991",
+                            "Children": []
+                        },
+                        {
+                            "id": "178992",
+                            "label": "BREAKFAST CEREALS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178992",
+                            "Children": []
+                        },
+                        {
+                            "id": "178993",
+                            "label": "CHOCOLATE & SWEETS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178993",
+                            "Children": []
+                        },
+                        {
+                            "id": "178994",
+                            "label": "CONDIMENTS & DRESSINGS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178994",
+                            "Children": []
+                        },
+                        {
+                            "id": "178995",
+                            "label": "CRISPS & SAVOURY SNACKS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/178995",
+                            "Children": []
+                        },
+                        {
+                            "id": "179016",
+                            "label": "HOMEBAKING",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179016",
+                            "Children": []
+                        },
+                        {
+                            "id": "179017",
+                            "label": "JAMS, SPREADS & CHUTNEYS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179017",
+                            "Children": []
+                        },
+                        {
+                            "id": "179018",
+                            "label": "PASTA",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179018",
+                            "Children": []
+                        },
+                        {
+                            "id": "179019",
+                            "label": "PUDDINGS & DESSERTS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179019",
+                            "Children": []
+                        },
+                        {
+                            "id": "179020",
+                            "label": "SAUCES, STOCKS & GRAVY",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179020",
+                            "Children": []
+                        },
+                        {
+                            "id": "179021",
+                            "label": "TEA & COFFEE",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179021",
+                            "Children": []
+                        },
+                        {
+                            "id": "179022",
+                            "label": "TINS & CANS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178970/179022",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "178971",
+                    "label": "BAKERY & CAKES",
+                    "link": "https://groceries.morrisons.com/browse/178974/178971",
+                    "Children": [
+                        {
+                            "id": "179023",
+                            "label": "BREAD & BREAD ROLLS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178971/179023",
+                            "Children": []
+                        },
+                        {
+                            "id": "179024",
+                            "label": "CAKES, PIES & TARTS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178971/179024",
+                            "Children": []
+                        },
+                        {
+                            "id": "179025",
+                            "label": "CROISSANTS & BREAKFAST BAKERY",
+                            "link": "https://groceries.morrisons.com/browse/178974/178971/179025",
+                            "Children": []
+                        },
+                        {
+                            "id": "179026",
+                            "label": "DESSERTS & PUDDINGS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178971/179026",
+                            "Children": []
+                        },
+                        {
+                            "id": "179027",
+                            "label": "FRUITED BREAD, SCONES & HOT CROSS BUNS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178971/179027",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "178972",
+                    "label": "FROZEN",
+                    "link": "https://groceries.morrisons.com/browse/178974/178972",
+                    "Children": [
+                        {
+                            "id": "179028",
+                            "label": "CAKES, PIES & TARTS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179028",
+                            "Children": []
+                        },
+                        {
+                            "id": "179029",
+                            "label": "CHIPS, POTATOES & VEGETABLES",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179029",
+                            "Children": []
+                        },
+                        {
+                            "id": "179030",
+                            "label": "DESSERTS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179030",
+                            "Children": []
+                        },
+                        {
+                            "id": "179031",
+                            "label": "FISH & SEAFOOD",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179031",
+                            "Children": []
+                        },
+                        {
+                            "id": "179032",
+                            "label": "ICE CREAM & LOLLIES",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179032",
+                            "Children": []
+                        },
+                        {
+                            "id": "179033",
+                            "label": "MEAT & POULTRY",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179033",
+                            "Children": []
+                        },
+                        {
+                            "id": "179034",
+                            "label": "PIES & PASTRIES",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179034",
+                            "Children": []
+                        },
+                        {
+                            "id": "179035",
+                            "label": "PIZZA & GARLIC BREAD",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179035",
+                            "Children": []
+                        },
+                        {
+                            "id": "179036",
+                            "label": "READY MEALS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178972/179036",
+                            "Children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "178973",
+                    "label": "DRINKS",
+                    "link": "https://groceries.morrisons.com/browse/178974/178973",
+                    "Children": [
+                        {
+                            "id": "179037",
+                            "label": "SOFT DRINKS",
+                            "link": "https://groceries.morrisons.com/browse/178974/178973/179037",
+                            "Children": []
+                        },
+                        {
+                            "id": "179038",
+                            "label": "WINE & SPARKLING",
+                            "link": "https://groceries.morrisons.com/browse/178974/178973/179038",
+                            "Children": []
+                        },
+                        {
+                            "id": "179039",
+                            "label": "BEER",
+                            "link": "https://groceries.morrisons.com/browse/178974/178973/179039",
+                            "Children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
